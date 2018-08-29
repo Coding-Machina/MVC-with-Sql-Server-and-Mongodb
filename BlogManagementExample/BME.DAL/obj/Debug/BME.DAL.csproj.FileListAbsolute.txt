@@ -1,0 +1,12 @@
+C:\Users\harikrishnan.s\source\repos\BlogManagementExample\BME.DAL\bin\Debug\BME.DAL.dll.config
+C:\Users\harikrishnan.s\source\repos\BlogManagementExample\BME.DAL\bin\Debug\BME.DAL.dll
+C:\Users\harikrishnan.s\source\repos\BlogManagementExample\BME.DAL\bin\Debug\BME.DAL.pdb
+C:\Users\harikrishnan.s\source\repos\BlogManagementExample\BME.DAL\bin\Debug\EntityFramework.dll
+C:\Users\harikrishnan.s\source\repos\BlogManagementExample\BME.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\harikrishnan.s\source\repos\BlogManagementExample\BME.DAL\bin\Debug\EntityFramework.xml
+C:\Users\harikrishnan.s\source\repos\BlogManagementExample\BME.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\harikrishnan.s\source\repos\BlogManagementExample\BME.DAL\obj\Debug\BME.DAL.csprojResolveAssemblyReference.cache
+C:\Users\harikrishnan.s\source\repos\BlogManagementExample\BME.DAL\obj\Debug\BME.DAL.csproj.CoreCompileInputs.cache
+C:\Users\harikrishnan.s\source\repos\BlogManagementExample\BME.DAL\obj\Debug\BME.DAL.csproj.CopyComplete
+C:\Users\harikrishnan.s\source\repos\BlogManagementExample\BME.DAL\obj\Debug\BME.DAL.dll
+C:\Users\harikrishnan.s\source\repos\BlogManagementExample\BME.DAL\obj\Debug\BME.DAL.pdb
